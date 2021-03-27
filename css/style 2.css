@@ -1,0 +1,8 @@
+@charset "utf-8";
+.row .col-xl-12 p {
+    float: none;
+    text-align: left;
+}
+.row .col-xl-12 #Isol {
+    text-align: right;
+}
